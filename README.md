@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Souhail Katti
+- 👀 I’m interested in building PCB circuit to medical devices such glucose monitor,etc.
+- 🌱 I’m currently learning Python and advanced electronics
+- 💞️ I’m looking to collaborate on a project related to wearable medical devices
+- 📫 Reach me out please by email : kattis@wit.edu
